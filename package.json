@@ -1,0 +1,16 @@
+{
+  "name": "learningmanagementsol",
+  "version": "1.0.0",
+  "description": "Learning Management Solution. Evaluation Day 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Milankumar Bhimani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sequelize": "^4.37.7",
+    "sqlite3": "^4.0.0"
+  }
+}
